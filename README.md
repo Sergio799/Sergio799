@@ -1,6 +1,6 @@
 
-👋 Hi, I’m Sai Prakash Reddy
-🚀 Full Stack Developer | Software Engineer | Gen AI Enthusiast | Cloud & AI Explorer
+- 👋 Hi, I’m Sai Prakash Reddy
+- 🚀 Full Stack Developer | Software Engineer | Gen AI Enthusiast | Cloud & AI Explorer
 👀 I’m passionate about Full Stack Development, Cloud Computing, and Generative AI.
 🌱 I’m currently learning advanced system design and scalable cloud architecture.  
 💡 Always excited to build impactful web applications, contribute to open-source, and work on AI-powered solutions.
