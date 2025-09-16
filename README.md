@@ -8,7 +8,7 @@
 - 💞️ Actively looking to collaborate on real-world projects, especially ones focused on tech for good
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/saiprakash07/) | [Medium](https://medium.com/@saiprakashreddyn123) | Email: [snallapa@charlotte.edu](mailto:snallapa@charlotte.edu)
-- ⚡Fun fact: I love Wimming, cycling, hiking, driving, and geeking out over sci-fi tech. 
+- ⚡Fun fact: I love Wimming, cycling, hiking, driving, and geeking out over sci-fi tech.
 <!---
 elsaborarte/elsaborarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
