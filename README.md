@@ -11,5 +11,5 @@
 - ⚡Fun fact: I love Wimming, cycling, hiking, driving, and geeking out over sci-fi tech.
 <!---
 elsaborarte/elsaborarte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes..
 --->
