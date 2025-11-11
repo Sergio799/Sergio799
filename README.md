@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Sai Prakash Reddy.
+## 👋 Hi, I’m Sai Prakash Reddy
 
 🚀 Full Stack Developer | Software Engineer | Gen AI Enthusiast | Cloud & AI Explorer
 
